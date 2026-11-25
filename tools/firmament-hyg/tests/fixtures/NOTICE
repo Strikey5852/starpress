@@ -1,0 +1,7 @@
+mini.csv is adapted from the HYG Database v4.4 by David Nash (astronexus),
+https://codeberg.org/astronexus/hyg, licensed under CC BY-SA 4.0
+(https://creativecommons.org/licenses/by-sa/4.0/).
+
+Changes: a handful of rows selected from the full catalog, plus synthetic
+rows (ids 900000 and up) added for testing. This file is distributed under
+the same CC BY-SA 4.0 license.
